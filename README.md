@@ -6,3 +6,5 @@
  
  List of options:
  ['neuroscience' ,'plants', 'animals', 'earth', 'space' , 'humans', 'life' ,'genetics', 'agriculture', 'microbes', 'climate', 'computing', 'artificial-intelligence', 'psychology', 'enviroment']
+
+All news is scrapped from www.sciencenews.org
